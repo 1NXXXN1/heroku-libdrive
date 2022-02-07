@@ -6,8 +6,8 @@ mkdir ./dev
 cd ./dev
 mkdir ./tmp
 cd ./tmp
-git clone "https://github.com/nodirhajiev/mylibserver.git" --depth 1 server
-git clone "https://github.com/nodirhajiev/mylibweb.git" --depth 1 web
+git clone "https://github.com/nodirhajiev/server.git" --depth 1 server
+git clone "https://github.com/nodirhajiev/web.git" --depth 1 web
 mkdir ./libDrive.Server
 mkdir ./libDrive.Server/build
 mkdir ./libDrive.Server/src
