@@ -1,5 +1,5 @@
 {
-  "name": "mylibDrive",
+  "name": "libDrive",
   "description": "Welcome to My Movies Library. It has been created by Nodirbek Khajiev with libdrive.",
   "keywords": [
     "heroku",
@@ -17,8 +17,8 @@
     "gindex",
     "libdrive"
   ],
-  "website": "https://github.com/nodirhajiev/mylibDrive",
-  "repository": "https://github.com/nodirhajiev/mylibDrive",
+  "website": "https://github.com/nodirhajiev/libDrive",
+  "repository": "https://github.com/nodirhajiev/libDrive",
   "logo": "https://telegra.ph/file/9ccfc546864d7d4643c62.jpg",
   "success_url": "/",
   "env": {
