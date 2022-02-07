@@ -1,0 +1,6 @@
+name = "mylibdrive"
+type = "javascript"
+account_id = "mylibdrive"
+workers_dev = true
+route = ""
+zone_id = ""
